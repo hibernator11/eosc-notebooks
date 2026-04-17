@@ -5,7 +5,7 @@ This project intends to illustrate how to use existing data and research infrast
 ## Examples
 
 - [Victor Hugo](Victor-Hugo.ipynb): This example shows how to retrieve the metadata describing the author from Wikidata as well as his works obtained from the National Library of France.
-- [Emilia Pardo Bazan](Emilia-Pardo-Bazan.ipynb): This example shows how to retrieve the metadata describing the author from Wikidata as well as her works obtained from the National Library of France. 
+- [Emilia Pardo Bazán](Emilia-Pardo-Bazan.ipynb): This example shows how to retrieve the metadata describing the author from Wikidata as well as her works obtained from the National Library of France. 
 
 
 ## Licence
