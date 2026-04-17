@@ -1,0 +1,1127 @@
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q1008502 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/BenetiJornet%20MAE%20313002-2.tif> ;
+    wdt:P19 wd:Q1492 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1940-06-20T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q101542343 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q10384775 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q13593966,
+        wd:Q1667921 .
+
+wd:Q107465767 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q107492845 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q108124719 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q10860215 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q108668580 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q108743846 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q108743897 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q11023392 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q199500 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1906-12-27T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q11850682 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/11-07-29-helsinki-by-RalfR-149.jpg> ;
+    wdt:P31 wd:Q179700,
+        wd:Q4989906,
+        wd:Q5003624 .
+
+wd:Q119998674 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q120039776 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q120540245 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q12799318 .
+
+wd:Q121162377 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q2807 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1848-12-12T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1212779 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q123469 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sinclair%20Lewis%20by%20Oscar%20Whiite%2C%20Pach%20Brothers%20Studio%2C%20c.%201945%2C%20gelatin%20silver%20print%2C%20from%20the%20National%20Portrait%20Gallery%20-%20NPG-NPG%2093%20388%2023%20%28cropped%29.jpg> ;
+    wdt:P19 wd:Q996590 ;
+    wdt:P27 wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1885-02-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1236531 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/DomCasmurroMachadodeAssis.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q124796613 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q216 ;
+    wdt:P27 wd:Q207272,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1859-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q124811154 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82awa%20%C5%BBycka.jpg> ;
+    wdt:P19 wd:Q12680827 ;
+    wdt:P27 wd:Q36 ;
+    wdt:P31 wd:Q5 .
+
+wd:Q1248788 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q108317211,
+        wd:Q109617402 .
+
+wd:Q12836343 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Azer%20Mammadov.jpg> ;
+    wdt:P19 wd:Q2148635 ;
+    wdt:P27 wd:Q15180,
+        wd:Q227 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1972-10-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q128457 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q1296168 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Fontane%20Effi%20Briest.jpg> ;
+    wdt:P27 wd:Q183 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q130907249 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q397826 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1871-03-26T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q131333 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/George%20Eliot%2C%20por%20Fran%C3%A7ois%20D%27Albert%20Durade.jpg> ;
+    wdt:P19 wd:Q175632 ;
+    wdt:P27 wd:Q174193 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1819-11-22T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q13174174 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sergey%20Fiksin.png> ;
+    wdt:P19 wd:Q2337 ;
+    wdt:P27 wd:Q15180 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1907-08-15T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1317740 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q1343741 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gordeyev%20Germany%201901.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q134413300 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Bouftas.jpg> ;
+    wdt:P19 wd:Q20726032 ;
+    wdt:P27 wd:Q1028 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1961-03-03T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1348668 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Erckmann-Chatrian%20woodburytype.jpg> ;
+    wdt:P31 wd:Q10648343,
+        wd:Q16017119 .
+
+wd:Q135114686 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q2647254,
+        wd:Q3305213 .
+
+wd:Q135156729 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Krajobraz.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135156806 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Staw.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135156995 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20%C5%81an%20zbo%C5%BCa%20z%20chabrami.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135157319 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Ko%C5%9Bciuszko%20na%20koniu.jpg> ;
+    wdt:P31 wd:Q1964917,
+        wd:Q3305213 .
+
+wd:Q135159425 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Wiecz%C3%B3r%201906.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135160244 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Krajobraz%20o%20zmierzchu.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135160649 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Poranek.%20Bocianie%20gniazdo.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135161886 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20%C5%81%C4%85ka%20pod%20lasem%20o%20zachodzie%20s%C5%82o%C5%84ca.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135162109 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Nad%20jeziorem%201907.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135163082 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Pejza%C5%BC%20z%20Podola%20szkic.jpg> ;
+    wdt:P31 wd:Q1964917,
+        wd:Q3305213 .
+
+wd:Q135180794 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Czaple%20%28321%29.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135180819 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Wie%C5%9B.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135180865 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Widok%20wsi.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135180867 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Zach%C3%B3d%20s%C5%82o%C5%84ca.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135182243 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Droga.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135182953 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20%C5%81%C4%85ka%20w%20s%C5%82o%C5%84cu.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135182956 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Pejza%C5%BC%20stepowy.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135183151 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Krajobraz%20z%20bodiakami.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135183237 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Dziewczyna%20przy%20studni.jpg> ;
+    wdt:P31 wd:Q1964917 .
+
+wd:Q135183711 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135184072 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef%20Che%C5%82mo%C5%84ski%20Krajobraz%20%28ca.%201910%29.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135184244 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135184255 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q135184284 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q1964917 .
+
+wd:Q135184302 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q1373644 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/BalzacEugenieGrandet01.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/RUB%2079%20%28Leipzig%2C%201965%2C%204.Auflage%29%20-%20Balzac%2C%20Eugenie%20Grandet.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q137869 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Germinal%20first%20edition%20cover.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q140052 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Zadie%20Smith%20NBCC%202011%20Shankbone.jpg> ;
+    wdt:P19 wd:Q84 ;
+    wdt:P27 wd:Q145 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1975-10-25T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q147787 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/AnnaKareninaTitle.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q15623196 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q16706790 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%20%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%201.jpg> ;
+    wdt:P19 wd:Q4238917 ;
+    wdt:P27 wd:Q212 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1958-10-05T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q170509 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20James%20by%20John%20Singer%20Sargent%20cleaned.jpg> ;
+    wdt:P19 wd:Q60 ;
+    wdt:P27 wd:Q174193,
+        wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1843-04-15T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q17460798 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Mendoza.jpg> ;
+    wdt:P19 wd:Q2841 ;
+    wdt:P27 wd:Q739 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1965-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q1777421 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q183883 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Catcher-in-the-rye-red-cover.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q189665 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Goncharov.jpg> ;
+    wdt:P19 wd:Q5627 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1812-06-18T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q189869 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Benito%20Perez%20Galdos%20-%20Kaulak%20%284.3%29.jpg> ;
+    wdt:P19 wd:Q11974 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1843-05-10T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q192649 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Stendhal%20Le-Rouge.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q193417 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Bovary%201857%20%28hi-res%29.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q204810 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Creanga-Foto03.jpg> ;
+    wdt:P19 wd:Q12168018,
+        wd:Q756593 ;
+    wdt:P27 wd:Q10957559,
+        wd:Q203493,
+        wd:Q958291 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1837-03-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q206534 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/SCrane2.JPG> ;
+    wdt:P19 wd:Q25395 ;
+    wdt:P27 wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1871-11-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q20789685 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q13593966,
+        wd:Q1667921 .
+
+wd:Q20871348 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q21294772 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Mullem.jpg> ;
+    wdt:P19 wd:Q727 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1836-02-15T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q215983 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/The%20Grapes%20of%20Wrath%20%281939%201st%20ed%20cover%29.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q219646 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Blasco%20Iba%C3%B1ez.jpg> ;
+    wdt:P19 wd:Q8818 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1867-01-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q227312 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%B3ricz%20Zsigmond%201920%20k%C3%B6r%C3%BCl%20%28Sz%C3%A9kely%20Alad%C3%A1r%20felv%C3%A9tele%29%20%E2%80%93%20crop.jpg> ;
+    wdt:P19 wd:Q587456 ;
+    wdt:P27 wd:Q28 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1879-07-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q240617 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Le%20P%C3%A8re%20Goriot%2C%201er%20Volume%2C%201835.png> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q2421158 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Marko%20Vovchok.jpg> ;
+    wdt:P19 wd:Q4174373 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1833-12-22T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2425322 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Skitalec.jpg> ;
+    wdt:P19 wd:Q1727 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1869-11-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q24579031 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q47465 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1820-02-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2468239 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Zaharia%20Stancu.jpg> ;
+    wdt:P19 wd:Q2721345 ;
+    wdt:P27 wd:Q218 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1902-10-05T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q251215 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Alvaropombo.jpg> ;
+    wdt:P19 wd:Q12233 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1939-06-23T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q25598089 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q2889499 ;
+    wdt:P27 wd:Q15180 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1880-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2631465 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/BalzacChouans02.jpg> ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q2662356 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/MACapmany.jpg> ;
+    wdt:P19 wd:Q1492 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1918-08-03T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q26993 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Storm%20%281817-1888%29.jpg> ;
+    wdt:P19 wd:Q21159 ;
+    wdt:P27 wd:Q26167,
+        wd:Q27306 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1817-09-14T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q271961 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Frances%20Trollope%20by%20Auguste%20Hervieu.jpg> ;
+    wdt:P19 wd:Q23154,
+        wd:Q7600478 ;
+    wdt:P27 wd:Q145,
+        wd:Q161885,
+        wd:Q174193 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1780-03-10T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q274334 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Svetlana%20Alexievich%20asv2024-01.jpg> ;
+    wdt:P19 wd:Q156726 ;
+    wdt:P27 wd:Q15180,
+        wd:Q184 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1948-05-31T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q274608 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20Rstakian.webp> ;
+    wdt:P19 wd:Q187153 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1930-09-24T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q275929 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Emilia%20Pardo%20Baz%C3%A1n%20por%20Luis%20Sellier%201885.jpg> ;
+    wdt:P19 wd:Q8757 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1851-09-16T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q278872 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/A.%20L.%20Kennedy%202024%20in%20M%C3%BCnchen.jpg> ;
+    wdt:P19 wd:Q123709 ;
+    wdt:P27 wd:Q145 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1965-10-22T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2880678 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20de%20H%C3%A9ctor%20Lastra.jpg> ;
+    wdt:P19 wd:Q1486 ;
+    wdt:P27 wd:Q414 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1943-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q288747 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9E%C3%B3rbergur%20%C3%9E%C3%B3r%C3%B0arson.jpg> ;
+    wdt:P19 wd:Q44315111 ;
+    wdt:P27 wd:Q189 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1888-03-12T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q29424 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Fathers%20and%20Sons%20cover%20-%20retouched.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q29721 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Bjorling%20%281960%29.jpg> ;
+    wdt:P19 wd:Q1757 ;
+    wdt:P27 wd:Q33,
+        wd:Q62633 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1887-05-31T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q2980829 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/MilicevicMilanDj.jpg> ;
+    wdt:P19 wd:Q3176717 ;
+    wdt:P27 wd:Q403 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1831-06-04T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q298938 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q639340 ;
+    wdt:P27 wd:Q77 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1914-10-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3022773 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Langlois%20en%20juin%202018.jpg> ;
+    wdt:P19 wd:Q291008 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1940-01-30T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q30344962 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q5470 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1898-03-17T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3048987 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/BalzacLouisLambert.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q3057582 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Os%20Maias%20Book%20Cover.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q307440 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q3805 ;
+    wdt:P27 wd:Q810 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1933-05-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q30905679 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q3070 ;
+    wdt:P27 wd:Q800 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1863-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q311145 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Machado%20de%20Assis%20aos%2057%20anos.jpg> ;
+    wdt:P19 wd:Q8678 ;
+    wdt:P27 wd:Q155 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1839-06-21T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3113776 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Krikor%20Zohrab.JPG> ;
+    wdt:P19 wd:Q459495 ;
+    wdt:P27 wd:Q12560 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1861-06-26T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q312747 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/LeopoldoAlasClarin.jpg> ;
+    wdt:P19 wd:Q15696 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1852-04-25T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q313553 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Antonio%20de%20Alarc%C3%B3n.jpg> ;
+    wdt:P19 wd:Q244324 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1833-03-10T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q314963 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Barbey.jpg> ;
+    wdt:P19 wd:Q668199 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1808-11-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q315003 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Malot%2C%20Hector%2C%20Nadar%2C%20Gallica.jpg> ;
+    wdt:P19 wd:Q1110622 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1830-05-20T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q316327 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/E%C3%A7a%20de%20Queir%C3%B3s%20c.%201882.jpg> ;
+    wdt:P19 wd:Q200459 ;
+    wdt:P27 wd:Q45670 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1845-11-25T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q316894 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Max%20und%20Moritz.JPG> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q3190082 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q3202966 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q3204245 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/LInsurg%C3%A9.jpg> ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q3220182 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q3288648 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q3344 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1871-11-19T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q328909 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20Degas%20Portrait%20of%20Duranty.jpg> ;
+    wdt:P19 wd:Q90 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1833-06-05T00:00:00+00:00"^^xsd:dateTime,
+        "1833-06-06T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q332462 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/%D0%86%D0%B2%D0%B0%D0%BD%20%D0%AF%D0%BA%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE.jpg> ;
+    wdt:P19 wd:Q3847367 ;
+    wdt:P27 wd:Q131964 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1856-08-27T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q333411 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Ilia%20Tchavtchavadze.jpg> ;
+    wdt:P19 wd:Q1011016 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1837-11-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q339761 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Couverture%20de%20Bel-ami%2C%20%C3%A9ditions%20Flammarion.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q3398670 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Josep%20Pin%20i%20Soler-%20027626-D%20006618.jpg> ;
+    wdt:P19 wd:Q15088 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1842-05-11T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3425788 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/R.%20Ballet.jpg> ;
+    wdt:P19 wd:Q42716 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1928-08-16T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3572301 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q3616 ;
+    wdt:P27 wd:Q794 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1901-03-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q36322 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/CassandraAusten-JaneAusten%28c.1810%29%20hires.jpg> ;
+    wdt:P19 wd:Q1231836 ;
+    wdt:P27 wd:Q161885,
+        wd:Q174193 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1775-12-16T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q36661 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Ibsen%20by%20Gustav%20Borgen%20NFB-19778.jpg> ;
+    wdt:P19 wd:Q12003312 ;
+    wdt:P27 wd:Q20 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1828-03-20T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q370246 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/JP%20Jacobsen.jpg> ;
+    wdt:P19 wd:Q1008152 ;
+    wdt:P27 wd:Q756617 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1847-04-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q378309 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Stepan%20Zoryan%20on%20stamp.jpg> ;
+    wdt:P19 wd:Q62337 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1889-09-15T00:00:00+00:00"^^xsd:dateTime,
+        "1890-09-15T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3796150 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20Daumier%20034.jpg> ;
+    wdt:P31 wd:Q3305213 .
+
+wd:Q3849002 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Rodolfo%20Te%C3%B3filo.jpg> ;
+    wdt:P19 wd:Q36947 ;
+    wdt:P27 wd:Q155 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1853-05-06T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q3999038 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Portada%20de%20Tristana%201892.jpeg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q4078855 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q900 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1907-02-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q40874 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Dorisa%20Lesinga%20%28cropped%29.JPG> ;
+    wdt:P19 wd:Q180078 ;
+    wdt:P27 wd:Q145,
+        wd:Q174193 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1919-10-22T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4115628 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/1916-03-11%2C%20La%20Esfera%2C%20Jos%C3%A9%20Mar%C3%ADa%20de%20Pereda%2C%20Zen%C3%B3n%20Quintana.jpg> ;
+    wdt:P19 wd:Q12233 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1833-02-06T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4155672 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/12%20%26%20Skythes%20by%20A.%20Block%20%281918%29.jpg> ;
+    wdt:P31 wd:Q474090 .
+
+wd:Q42189822 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q42191190 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q42195211 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q4243550 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Kubanev.jpg> ;
+    wdt:P19 wd:Q18794566 ;
+    wdt:P27 wd:Q15180 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1921-01-13T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4267674 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q3622393 ;
+    wdt:P27 wd:Q15180,
+        wd:Q159 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1938-12-21T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q42831 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Turgenev%20by%20Repin.jpg> ;
+    wdt:P19 wd:Q3118 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1818-11-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q42905375 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20de%20la%20Cuadra.jpg> ;
+    wdt:P19 wd:Q43509 ;
+    wdt:P27 wd:Q736 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1903-09-03T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4319501 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q4466552 ;
+    wdt:P27 wd:Q15180,
+        wd:Q184 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1931-11-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q43444 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Flaubert.jpg> ;
+    wdt:P19 wd:Q30974 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1821-12-12T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q448509 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q621 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1972-02-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4538196 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Anatoly%20yanovsky.jpg> ;
+    wdt:P19 wd:Q3118 ;
+    wdt:P27 wd:Q15180 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1919-07-26T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q4657268 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344 .
+
+wd:Q48645395 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q1000446 ;
+    wdt:P27 wd:Q15180,
+        wd:Q159 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1924-01-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q502 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Stendhal.jpg> ;
+    wdt:P19 wd:Q1289 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1783-01-23T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q521170 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Gilyarovsky%20by%20Sergey%20Malyutin.jpg> ;
+    wdt:P19 wd:Q86761 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1855-12-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q523076 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Houghton%20AC85.A%E2%84%93194L.1869%20pt.2aa%20-%20Little%20Women%2C%20title.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q5261205 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q526709 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/William%20Dean%20Howells%20%28ca1870%29.jpg> ;
+    wdt:P19 wd:Q1018313 ;
+    wdt:P27 wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1837-03-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q5295849 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q5361969 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q540155 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Friedebert%20Tuglas%201910.jpg> ;
+    wdt:P19 wd:Q1419584 ;
+    wdt:P27 wd:Q15180,
+        wd:Q191,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1886-03-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q543726 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Mercedes%20Cabello%20de%20Carbonera.jpg> ;
+    wdt:P19 wd:Q1000346 ;
+    wdt:P27 wd:Q419 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1845-02-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q551597 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Jules%20Vall%C3%A8s%20%282%29.jpg> ;
+    wdt:P19 wd:Q184359 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1832-06-11T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q55670109 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q12154371 ;
+    wdt:P27 wd:Q184 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1935-02-27T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q55723869 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q1440453,
+        wd:Q7725634 .
+
+wd:Q559989 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sremacstevan.jpeg> ;
+    wdt:P19 wd:Q571136 ;
+    wdt:P27 wd:Q131964,
+        wd:Q241748 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1855-11-11T00:00:00+00:00"^^xsd:dateTime,
+        "1855-11-23T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q5685 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Chekhov%20with%20bow-tie%20sepia%20image.jpg> ;
+    wdt:P19 wd:Q170513 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1860-01-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q5686 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Dickens%20Gurney%20head.jpg> ;
+    wdt:P19 wd:Q1803681 ;
+    wdt:P27 wd:Q174193 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1812-02-07T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q57182 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Bezirksmuseum%20Josefstadt%2C%20Friedrich%20Hebbel.jpg> ;
+    wdt:P19 wd:Q518460 ;
+    wdt:P27 wd:Q704288 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1813-03-18T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q5814559 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q597157 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20Vodanovic%20-%20Ecran%201942.jpg> ;
+    wdt:P19 wd:Q1663 ;
+    wdt:P27 wd:Q298 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1926-08-30T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q6012333 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q6012505 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q6045987 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q1667921 .
+
+wd:Q60982841 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q17518870,
+        wd:Q7725634 .
+
+wd:Q6120611 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q6130701 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q47461344,
+        wd:Q7725634 .
+
+wd:Q62018491 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q63302200 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q16368283,
+        wd:Q1954407 ;
+    wdt:P27 wd:Q130229,
+        wd:Q230 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1989-09-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q6384067 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q524233 ;
+    wdt:P27 wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1959-07-14T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q645141 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Armando%20Palacio%20Vald%C3%A9s%2C%20de%20Compa%C3%B1y%2C%20en%20Mundo%20Gr%C3%A1fico.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Armando%20Palacio%20Vald%C3%A9s%2C%20de%20Compa%C3%B1y.jpg> ;
+    wdt:P19 wd:Q10979461 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1853-10-04T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q65163420 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Samohin%201960.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Samohin%201961.jpg> ;
+    wdt:P19 wd:Q105064553 ;
+    wdt:P27 wd:Q15180,
+        wd:Q813 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1918-02-12T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q6535805 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Levon%20Pashalian%20%281896%29.png> ;
+    wdt:P19 wd:Q326339 ;
+    wdt:P27 wd:Q12560 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1868-09-24T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q670157 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sleeckx%2C%20Jan%20Lambrecht%20Domien%20%281818-1901%29%3B%20journalist%20en%20schrijver%2C%20Van%20Loo%2C%20Florimond%2C%20Felixarchief%2C%2012%209208%20recto%20%28cropped%29.jpg> ;
+    wdt:P19 wd:Q12892 ;
+    wdt:P27 wd:Q31 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1818-02-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q677367 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Newerly.jpg> ;
+    wdt:P19 wd:Q281376 ;
+    wdt:P27 wd:Q221457,
+        wd:Q36 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1903-03-24T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q713652 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Janko%20Veselinovic.jpeg> ;
+    wdt:P19 wd:Q2722600 ;
+    wdt:P27 wd:Q241748,
+        wd:Q684030 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1862-05-13T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q7224557 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BE%D0%BA%D1%80%D0%BE%D1%83%D1%81%D0%BE%D0%B2%2C%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87.jpg> ;
+    wdt:P19 wd:Q4372105 ;
+    wdt:P27 wd:Q15180,
+        wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1887-06-21T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q7243 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/L.N.Tolstoy%20Prokudin-Gorsky.jpg> ;
+    wdt:P19 wd:Q749556 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1828-09-09T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q744488 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Champfleury.jpg> ;
+    wdt:P19 wd:Q167141 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1821-09-10T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q7484811 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/TaiyeSelasi%20P1030135.JPG> ;
+    wdt:P19 wd:Q84 ;
+    wdt:P27 wd:Q145 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1979-11-02T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q76632 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Fontane.png> ;
+    wdt:P19 wd:Q16085 ;
+    wdt:P27 wd:Q27306 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1819-12-30T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q77312 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Willibald%20Alexis.jpg> ;
+    wdt:P19 wd:Q1799 ;
+    wdt:P27 wd:Q27306 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1798-06-29T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q7740720 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q7760892 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q7764786 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Sleeping-car.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q80596 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Miller%20by%20Wolfgang%20Fischer-01.jpg> ;
+    wdt:P19 wd:Q60 ;
+    wdt:P27 wd:Q30 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1915-10-17T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q84826259 wdt:P135 wd:Q667661 ;
+    wdt:P19 wd:Q799920 ;
+    wdt:P27 wd:Q15180,
+        wd:Q230 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1962-05-01T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q898795 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/LadyoftheCamellias.jpg> ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q91630259 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q918268 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Maxime%20Ducamp%20par%20Nadar.jpg> ;
+    wdt:P19 wd:Q90 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1822-02-08T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q91827872 wdt:P135 wd:Q667661 ;
+    wdt:P31 wd:Q7725634 .
+
+wd:Q9327 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Maupassant%20par%20Nadar.jpg> ;
+    wdt:P19 wd:Q629137 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1850-08-05T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q966324 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9on%20Frapi%C3%A9.jpg> ;
+    wdt:P19 wd:Q90 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1863-01-27T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q9711 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Honor%C3%A9%20de%20Balzac%20%281842%29%20detail.jpg> ;
+    wdt:P19 wd:Q288 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1799-05-20T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q975807 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/LazaLazarevic.jpg> ;
+    wdt:P19 wd:Q204472 ;
+    wdt:P27 wd:Q241748 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1851-05-13T00:00:00+00:00"^^xsd:dateTime .
+
+wd:Q991 wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Vasily%20Perov%20-%20%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%20%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20-%20Google%20Art%20Project.jpg> ;
+    wdt:P19 wd:Q4281399 ;
+    wdt:P27 wd:Q34266 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1821-11-11T00:00:00+00:00"^^xsd:dateTime .
+
