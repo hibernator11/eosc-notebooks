@@ -1,0 +1,94 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q535 wdt:P103 wd:Q150 ;
+    wdt:P106 wd:Q11774202,
+        wd:Q15296811,
+        wd:Q1792450,
+        wd:Q1925963,
+        wd:Q214917,
+        wd:Q3579035,
+        wd:Q36180,
+        wd:Q482980,
+        wd:Q49757,
+        wd:Q6051619,
+        wd:Q644687,
+        wd:Q6625963,
+        wd:Q8178443,
+        wd:Q82955 ;
+    wdt:P119 wd:Q188856 ;
+    wdt:P135 wd:Q27301872 ;
+    wdt:P1442 <http://commons.wikimedia.org/wiki/Special:FilePath/Pante%C3%B3n%2C%20Par%C3%ADs%2C%20Francia%2C%202022-10-29%2C%20DD%2049-51%20HDR.jpg> ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Hugo%20by%20%C3%89tienne%20Carjat%201876%20-%20full.jpg> ;
+    wdt:P19 wd:Q37776,
+        wd:Q90 ;
+    wdt:P27 wd:Q142 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1802-02-26T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P800 wd:Q1211109,
+        wd:Q180736,
+        wd:Q191380,
+        wd:Q199940,
+        wd:Q2587517,
+        wd:Q3085613,
+        wd:Q3231725,
+        wd:Q865211 .
+
+wd:Q11774202 rdfs:label "essayist"@en .
+
+wd:Q1211109 rdfs:label "Les Travailleurs de la mer"@fr .
+
+wd:Q142 rdfs:label "France"@en .
+
+wd:Q150 rdfs:label "French"@en .
+
+wd:Q15296811 rdfs:label "draftsperson"@en .
+
+wd:Q1792450 rdfs:label "art historian"@en .
+
+wd:Q180736 rdfs:label "Les Misérables"@fr .
+
+wd:Q188856 rdfs:label "Panthéon"@en .
+
+wd:Q191380 rdfs:label "Notre-Dame de Paris"@fr .
+
+wd:Q1925963 rdfs:label "graphic artist"@en .
+
+wd:Q199940 rdfs:label "Quatrevingt-treize"@fr .
+
+wd:Q214917 rdfs:label "playwright"@en .
+
+wd:Q2587517 rdfs:label "L'Art d'être grand-père"@fr .
+
+wd:Q27301872 rdfs:label "romantisme français"@fr .
+
+wd:Q3085613 rdfs:label "Les Orientales"@fr .
+
+wd:Q3231725 rdfs:label "Les Contemplations"@fr .
+
+wd:Q3579035 rdfs:label "travel writer"@en .
+
+wd:Q36180 rdfs:label "writer"@en .
+
+wd:Q37776 rdfs:label "Besançon"@en .
+
+wd:Q482980 rdfs:label "author"@en .
+
+wd:Q49757 rdfs:label "poet"@en .
+
+wd:Q6051619 rdfs:label "opinion journalist"@en .
+
+wd:Q644687 rdfs:label "illustrator"@en .
+
+wd:Q6625963 rdfs:label "novelist"@en .
+
+wd:Q8178443 rdfs:label "librettist"@en .
+
+wd:Q82955 rdfs:label "politician"@en .
+
+wd:Q865211 rdfs:label "L'Homme qui rit"@fr .
+
+wd:Q90 rdfs:label "Paris"@en .
+
