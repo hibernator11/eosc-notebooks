@@ -1,3 +1,11 @@
+## Introduction
+
+This project intends to illustrate how to use existing data and research infrastructures in Europe to extract and reuse collections as data.
+
+## Examples
+
+- Victor Hugo: This example shows how to retrieve the metadata describing the author from Wikidata as well as his works obtained from the National Library of France. 
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
