@@ -1,6 +1,6 @@
 ## Introduction
 
-This project intends to illustrate how to use existing data and research infrastructures in Europe to extract and reuse collections as data.
+This project intends to illustrate how to use existing data and research infrastructures in Europe, in particular the [EOSC Notebooks service](https://open-science-cloud.ec.europa.eu/services/interactive-notebooks) to extract and reuse collections as data.
 
 ## Examples
 
