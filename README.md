@@ -12,7 +12,7 @@ This project intends to illustrate how to use existing data and research infrast
 Please, note that the datasets used in this project have separate licences.
 
 ## Acknowledgments
-We would to thank the [International GLAM Labs Community](https://www.glamlabs.io/) for their support and help to create this work.
+We would to thank the [International GLAM Labs Community](https://www.glamlabs.io/) and [DARIAH-EU](http://www.dariah.eu/) for their support and help to create this work.
 
 ## References
 - Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. Journal of the Association for Information Science and Technology, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
