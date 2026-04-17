@@ -1,0 +1,84 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wd:Q275929 wdt:P103 wd:Q1321 ;
+    wdt:P106 wd:Q113516626,
+        wd:Q11774202,
+        wd:Q15949613,
+        wd:Q1607826,
+        wd:Q1930187,
+        wd:Q3068305,
+        wd:Q36180,
+        wd:Q4263842,
+        wd:Q49757,
+        wd:Q6625963 ;
+    wdt:P119 wd:Q16746788,
+        wd:Q6116696 ;
+    wdt:P135 wd:Q667661 ;
+    wdt:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/Emilia%20Pardo%20Baz%C3%A1n%20por%20Luis%20Sellier%201885.jpg> ;
+    wdt:P19 wd:Q2807,
+        wd:Q8757 ;
+    wdt:P27 wd:Q29 ;
+    wdt:P31 wd:Q5 ;
+    wdt:P569 "1851-09-16T00:00:00+00:00"^^xsd:dateTime ;
+    wdt:P800 wd:Q12391421,
+        wd:Q16578932,
+        wd:Q16588120,
+        wd:Q16588138,
+        wd:Q16606269,
+        wd:Q19437333,
+        wd:Q5575234,
+        wd:Q9024322 .
+
+wd:Q113516626 rdfs:label "gastronomist"@en .
+
+wd:Q11774202 rdfs:label "essayist"@en .
+
+wd:Q12391421 rdfs:label "La Quimera"@es .
+
+wd:Q1321 rdfs:label "Spanish"@en .
+
+wd:Q15949613 rdfs:label "short story writer"@en .
+
+wd:Q1607826 rdfs:label "editor"@en .
+
+wd:Q16578932 rdfs:label "Insolación"@es .
+
+wd:Q16588120 rdfs:label "La cuestión palpitante"@es .
+
+wd:Q16588138 rdfs:label "La dama joven"@es .
+
+wd:Q16606269 rdfs:label "Memorias de un solterón"@es .
+
+wd:Q16746788 rdfs:label "Basilica of the Immaculate Conception"@en .
+
+wd:Q1930187 rdfs:label "journalist"@en .
+
+wd:Q19437333 rdfs:label "El indulto"@es .
+
+wd:Q2807 rdfs:label "Madrid"@en .
+
+wd:Q29 rdfs:label "Spain"@en .
+
+wd:Q3068305 rdfs:label "salonnière"@en .
+
+wd:Q36180 rdfs:label "writer"@en .
+
+wd:Q4263842 rdfs:label "literary critic"@en .
+
+wd:Q49757 rdfs:label "poet"@en .
+
+wd:Q5575234 rdfs:label "La madre naturaleza"@es .
+
+wd:Q6116696 rdfs:label "Sacramental de San Lorenzo y San José cemetery"@en .
+
+wd:Q6625963 rdfs:label "novelist"@en .
+
+wd:Q667661 rdfs:label "realismo literario"@es .
+
+wd:Q8757 rdfs:label "A Coruña"@en .
+
+wd:Q9024322 rdfs:label "Los pazos de Ulloa"@es .
+
